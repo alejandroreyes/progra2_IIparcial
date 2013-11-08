@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1383759982 source:c:\users\alejandro  reyes\documents\github\progra2_iiparcial\procedimiento2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
