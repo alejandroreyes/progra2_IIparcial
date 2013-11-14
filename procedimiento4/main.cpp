@@ -32,7 +32,7 @@ void ingreso(char nombre[],int &turno,int &horas)
      cin>>turno;
 
    }while((turno<1) or (turno>3));
-   //_flushall();
+   _flushall();
 
 }
 void calcular(int turno, int horas,int &pxh, int &pb,int &ihss, int &tp)
