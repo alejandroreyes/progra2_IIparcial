@@ -82,7 +82,7 @@ for(int i=0;i<5;i++)
 {
     cout<<" "<<num[i];
 }
-	cout<<"\n\n";
+    cout<<"\n\n";
 }
 
 
@@ -91,18 +91,18 @@ int main()
 	ingresar(num);
 	ascendente(num);
 
-cout<<"orden de numeros en forma ascendente....:"<<"\n";
+cout<<"orden de numeros en forma ascendente....:";
 
 	presentar(num);
 	descendente(num);
 
-cout<<"orden de numeros en forma descendente....:"<<"\n";
+cout<<"orden de numeros en forma descendente....:";
 
 	presentar(num);
 	subpares(num);
 
 
-cout<<"Substituir numeros pares por 0.....:"<<"\n\n";
+cout<<"Substituir numeros pares por 0.....:";
 	presentar(num);
 
 

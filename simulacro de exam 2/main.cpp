@@ -26,8 +26,7 @@ void ingreso (int arreglo[])
         cout<<"ingresar un numero.....";
         cin>>arreglo[i];
 
-        }while(!((arreglo[i]>50) and (arreglo[i]<=100)));
-
+        }while(!((arreglo[i]>=50) and (arreglo[i]<=100)));
 
     }
 }
